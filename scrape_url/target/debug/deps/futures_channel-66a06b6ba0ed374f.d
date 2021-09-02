@@ -1,0 +1,11 @@
+/Users/yz/work/github/rustLearn/scrape_url/target/debug/deps/futures_channel-66a06b6ba0ed374f.rmeta: /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/yz/work/github/rustLearn/scrape_url/target/debug/deps/libfutures_channel-66a06b6ba0ed374f.rlib: /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/yz/work/github/rustLearn/scrape_url/target/debug/deps/futures_channel-66a06b6ba0ed374f.d: /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs:
+/Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs:
+/Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs:
+/Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs:
+/Users/yz/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs:
